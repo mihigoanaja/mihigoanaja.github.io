@@ -6,5 +6,5 @@
 /notrailing/ /nottrailing 301
 /page/ /page2/#fragment 301
 /blog/* https://blog.mihigoanaja.alreflections.net/:splat
-/blog https://blog.mihigoanaja.alreflections.net/:splat
+/blog* https://blog.mihigoanaja.alreflections.net/:splat
 /products/:code/:name /products?code=:code&name=:name
